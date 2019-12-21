@@ -24,6 +24,7 @@ node
  
  }
  
+    /*
  stage('Build')
  {
  sh  "${mavenHome}/bin/mvn clean package"
@@ -55,4 +56,5 @@ node
  9980923226.''', subject: 'Build is over', to: 'devopstrainingblr@gmail.com'
  }
 
+  */
 }
